@@ -3,15 +3,15 @@
 A modern apartment listing web application built with React, Vite, and Tailwind CSS.
 The project uses ESLint and Prettier for code quality and formatting.
 
-Features
+## Features
 
--Development powered by Vite
+* Development powered by Vite
 
--Responsive UI with Tailwind CSS
+* Responsive UI with Tailwind CSS
 
--Code linting with ESLint
+* Code linting with ESLint
 
--Formatting with Prettier
+* Formatting with Prettier
 
 ## Installation
 
