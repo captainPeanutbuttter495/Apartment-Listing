@@ -27,6 +27,4 @@ Run the development server:
 
 npm run dev
 
-
 This starts the app at http://localhost:5173
-.
